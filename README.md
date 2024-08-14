@@ -17,4 +17,5 @@ To use this application, you need to have Python installed on your system along 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dagi12x/Tkinter-Equation-Solver/tree/main
+   git clone https://github.com/Dagi12x/Tkinter-Equation-Solver.git
+
