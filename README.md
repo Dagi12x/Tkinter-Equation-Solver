@@ -16,4 +16,5 @@ This Python project is a Tkinter-based equation solver with an interactive GUI. 
 To use this application, you need to have Python installed on your system along with the Tkinter library, which is included with most Python installations.
 
 1. Clone the repository:
-   ```bash https://github.com/Dagi12x/Tkinter-Equation-Solver/tree/main
+   ```bash
+   git clone https://github.com/Dagi12x/Tkinter-Equation-Solver/tree/main
